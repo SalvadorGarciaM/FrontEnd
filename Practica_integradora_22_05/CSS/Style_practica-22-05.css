@@ -1,6 +1,10 @@
 .batman { text-align: center;
 }
 
+.foto_batman {
+    height: 150px;
+}
+
 .Titulo_p {
     background-color: #C4C4C4; letter-spacing: 5px; text-align: center; color: #005677;
 }

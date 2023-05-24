@@ -1,0 +1,7 @@
+.fondo {
+    background-color: black;
+        color: white; display: flex; position:initial; padding: 12px; width: 110%;
+}
+.opciones_header { align-items: right; padding-left: 6px;
+
+}

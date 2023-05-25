@@ -1,0 +1,95 @@
+.batman {
+    text-align: center;
+}
+
+.foto_batman {
+    height: 150px;
+}
+
+.Titulo_p {
+    background-color: #afe4ff;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #257c9e;
+}
+
+.separacion2 {
+    height: 15px;
+}
+
+.subtitulo {
+    background-color: #C4C4C4;
+    letter-spacing: 5px;
+    color: #257c9e;
+}
+
+.text-negrita {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.text-parrafo {
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.footer {
+    background-color: #257c9e;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    height: 45px;
+    align-items: center;
+}
+
+.imagen-footer {
+    padding-left: 15px;
+    vertical-align: middle;
+    ;
+}
+
+.imagen-footer2 {
+    padding-left: 15px;
+    vertical-align: middle;
+    height: 45px;
+    width: 45px;
+}
+
+.movimiento {
+    margin-left: 85px;
+}
+
+.sobremi {
+    background-color:rgb(9, 85, 198);
+    height: 25px;
+    width: 100px;
+    align-items: center;
+    margin-left: 46.5%;
+}
+
+.separacion {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    align-items: center;
+}
+
+.caja {
+    height: 35px;
+
+}
+
+.intro {
+    color: black;
+    width: 500px;
+    text-align: center;
+    margin-left: 34%;
+    background-color: #cff6ff;
+}
+
+header {
+    background-color: #a3edfff2;
+    background-image: url("fondo1.jpg");
+    background-repeat:round;
+
+}

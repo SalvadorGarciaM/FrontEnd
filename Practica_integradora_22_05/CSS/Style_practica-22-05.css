@@ -9,9 +9,6 @@
     background-color: #C4C4C4; letter-spacing: 5px; text-align: center; color: #005677;
 }
 
-.separacion {
-    height: 75px;
-}
 .separacion2 {
     height: 15px;
 }
@@ -36,4 +33,36 @@
 
 .imagen-footer {
     padding-left: 15px; vertical-align: middle;;
+}
+
+.imagen-footer2 {
+    padding-left: 15px;
+    vertical-align: middle;
+    height:45px;
+    width:45px;
+}
+
+.movimiento {
+    margin-left: 85px;
+}
+
+.sobremi {
+    background-color: #C4C4C4;
+    height: 25px;
+    width: 100px;
+    align-items: center;
+    margin-left:46.5%;
+}
+
+.separacion {
+    height: 75px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+header {
+    background-color: #0000007b;
+    background-image: url("fondo2.jpg");
+    background-repeat: round;
 }
